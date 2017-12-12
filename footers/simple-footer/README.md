@@ -1,0 +1,1 @@
+﻿Simple footer with copyright information and a few navigation links.
